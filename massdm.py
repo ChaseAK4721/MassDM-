@@ -1,7 +1,8 @@
 import discord
 
-token = "PUT TOKEN HERE"
-message = "PUT YOUR MESSAGE HERE"
+token = "OTEyMjI1NTU4MTc4NDU5Njc5.YZs2QQ.gisCeEuvDqb7iJmMkQCQGMaBCME
+"
+message = "This is What you get for being asscociated with OTR FUCKING RETARD"
 
 client = discord.Client()
 
